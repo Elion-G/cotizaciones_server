@@ -1,0 +1,128 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.label-form{
+    font-family: Amplesoft_Bold;
+    font-size: 18px;
+}
+
+.form-select{
+    box-shadow: 0px 0px 10px lightgray;
+    border: 2px solid lightgray;
+}
+.form-control {
+    box-shadow: 0px 0px 10px lightgray;
+    border: 2px solid lightgray;
+}
+
+h1{
+    font-family: Amplesoft_Bold_2;
+    font-size: 56px; 
+    text-align: center;
+    color: black;
+}
+
+.btn-add{
+    background-color: transparent; 
+    border-color: transparent;
+    border-radius: 100%; 
+    font-family: Amplesoft_Bold_2; 
+    
+}
+
+.btn{
+    margin-top:30px; 
+    background-color: #fcb800; 
+    border-radius: 3px; 
+    border-color: #fcb800; 
+    font-family: Amplesoft_Bold_2; 
+}
+
+.card-header{
+    font-family: Amplesoft_Bold_2; 
+    color: white; 
+    font-size: 22px; 
+    border-radius: 5px; 
+    text-align: center;
+    background-color: red;
+}
+
+.row-value{
+    font-family: Amplesoft_Bold_2; 
+    color: black; 
+    font-size: 14px; 
+}
+
+.table-value{
+    font-family: Amplesoft_Bold_2; 
+    color: black; 
+    font-size: 18px; 
+    border-radius: 5px; 
+}
+
+@font-face {
+    font-family: Amplesoft_2;
+    font-size: 22px;
+    src: url('/static/fonts/AmpleSoft_2.ttf');
+}
+@font-face {
+    font-family: Amplesoft_Bold_2;
+    font-size: 22px;
+    src: url('/static/fonts/AmpleSoft_Bold_2.ttf');
+}
+@font-face {
+    font-family: Amplesoft_Bold;
+    font-size: 22px;
+    src: url('/static/fonts/AmpleSoft_Bold.ttf');
+}
+@font-face {
+    font-family: Amplesoft_ExtraLight_2;
+    font-size: 22px;
+    src: url('/static/fonts/AmpleSoft_ExtraLight_2.ttf');
+}
+@font-face {
+    font-family: Amplesoft_ExtraLight;
+    font-size: 22px;
+    src: url('/static/fonts/AmpleSoft_ExtraLight.ttf');
+}
+@font-face {
+    font-family: Amplesoft_Light_2;
+    font-size: 22px;
+    src: url('/static/fonts/AmpleSoft_Light_2.ttf');
+}
+@font-face {
+    font-family: Amplesoft_Light;
+    font-size: 22px;
+    src: url('/static/fonts/AmpleSoft_Light.ttf');
+}
+@font-face {
+    font-family: Amplesoft_Medium_2;
+    font-size: 22px;
+    src: url('/static/fonts/AmpleSoft_Medium_2.ttf');
+}
+@font-face {
+    font-family: Amplesoft_Medium;
+    font-size: 22px;
+    src: url('/static/fonts/AmpleSoft_Medium.ttf');
+}
+@font-face {
+    font-family: Amplesoft_Thin_2;
+    font-size: 22px;
+    src: url('/static/fonts/AmpleSoft_Thin_2.ttf');
+}
+@font-face {
+    font-family: Amplesoft_Thin;
+    font-size: 22px;
+    src: url('/static/fonts/AmpleSoft_Thin.ttf');
+}
+@font-face {
+    font-family: Amplesoft;
+    font-size: 22px;
+    src: url('/static/fonts/AmpleSoft.ttf');
+}
